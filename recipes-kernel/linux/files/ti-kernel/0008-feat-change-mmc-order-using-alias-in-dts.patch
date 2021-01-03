@@ -1,7 +1,7 @@
-From 166e6898f7275216e0494f2b790a58e4b51872c3 Mon Sep 17 00:00:00 2001
+From 69040a43fb512593bbb1f52d3df7268a5646a2c4 Mon Sep 17 00:00:00 2001
 From: "le.jin" <le.jin@siemens.com>
 Date: Wed, 9 Oct 2019 15:22:09 +0800
-Subject: [PATCH 8/8] feat:change mmc order using alias in dts
+Subject: [PATCH 8/9] feat:change mmc order using alias in dts
 
 1. modify kernel to support mmc alias in dts
 2. change SD to mmc0 and EMMC to mmc1 via alias in dts
